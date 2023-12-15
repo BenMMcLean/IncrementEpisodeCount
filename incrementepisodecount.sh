@@ -3,9 +3,10 @@
 # Define the directory to process
 directory=""
 
-# Define the minimum episode number (formatted as (E)XX, e.g 11) from which you want to increment
+# Define the minimum episode number from which you want to increment
 start_exx=
 
+# Define the amount to change the matching episodes
 change=1
 
 # Change to the target directory
